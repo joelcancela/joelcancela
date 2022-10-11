@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Engineer from France/Antibes and Open Source enthusiast.</h3>
 
 - 🎮&nbsp;I love video games. Mostly FPS and driving simulation ones.
-- 👨‍💻&nbsp;I spend my free time coding when I'm not outside or playing video games.
+- 👨‍💻&nbsp;Curious, Jack of all trades developper on my free time.
 
 <p align="left">
     <img src="https://rawcdn.githack.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
