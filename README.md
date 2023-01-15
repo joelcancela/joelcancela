@@ -35,15 +35,15 @@
         alt="python" width="40" height="40" />
 </p>
 
-<p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcancela&layout=compact&show_icons=true&theme=react&hide=html,hyphy,c%23,css,c"
-        alt="joelcancela's top languages" />
-</p>
-
-<p>
-    &nbsp;
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=joelcancela&show_icons=true&count_private=true&theme=react"
-        alt="joelcancela's stats" width="50%" />
-</p>
+#<p>
+#    <img align="left"
+#        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcancela&layout=compact&show_icons=true&theme=react&hide=html,hyphy,c%23,css,c"
+#        alt="joelcancela's top languages" />
+#</p>
+#
+#<p>
+#    &nbsp;
+#    <img align="center"
+#        src="https://github-readme-stats.vercel.app/api?username=joelcancela&show_icons=true&count_private=true&theme=react"
+#        alt="joelcancela's stats" width="50%" />
+#</p>
