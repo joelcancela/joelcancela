@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joël</h1>
-<h3 align="center">Full-stack Engineer from France/Antibes and Open Source enthusiast.</h3>
+<h3 align="center">Full-stack Engineer from Antibes - France and Open Source enthusiast.</h3>
 
 - 🎮&nbsp;I love video games. Mostly FPS and driving simulation ones.
 - 👨‍💻&nbsp;Curious, Jack of all trades developper on my free time.
