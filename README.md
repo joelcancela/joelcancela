@@ -4,8 +4,8 @@
 <img src="https://skillicons.dev/icons?i=devto,bots"/>
 </p>
 
+- 👨‍💻&nbsp;Curious, Jack of all trades developper in my free time.
 - 🎮&nbsp;I love video games. Mostly FPS and driving simulation ones.
-- 👨‍💻&nbsp;Curious, Jack of all trades developper on my free time.
 
 <h2>Front-end</h2>
 
